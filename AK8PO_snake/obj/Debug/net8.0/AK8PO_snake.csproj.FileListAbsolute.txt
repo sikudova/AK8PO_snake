@@ -1,0 +1,14 @@
+C:\Users\lsikudova\RiderProjects\AK8PO_snake\AK8PO_snake\bin\Debug\net8.0\AK8PO_snake.exe
+C:\Users\lsikudova\RiderProjects\AK8PO_snake\AK8PO_snake\bin\Debug\net8.0\AK8PO_snake.deps.json
+C:\Users\lsikudova\RiderProjects\AK8PO_snake\AK8PO_snake\bin\Debug\net8.0\AK8PO_snake.runtimeconfig.json
+C:\Users\lsikudova\RiderProjects\AK8PO_snake\AK8PO_snake\bin\Debug\net8.0\AK8PO_snake.dll
+C:\Users\lsikudova\RiderProjects\AK8PO_snake\AK8PO_snake\bin\Debug\net8.0\AK8PO_snake.pdb
+C:\Users\lsikudova\RiderProjects\AK8PO_snake\AK8PO_snake\obj\Debug\net8.0\AK8PO_snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsikudova\RiderProjects\AK8PO_snake\AK8PO_snake\obj\Debug\net8.0\AK8PO_snake.AssemblyInfoInputs.cache
+C:\Users\lsikudova\RiderProjects\AK8PO_snake\AK8PO_snake\obj\Debug\net8.0\AK8PO_snake.AssemblyInfo.cs
+C:\Users\lsikudova\RiderProjects\AK8PO_snake\AK8PO_snake\obj\Debug\net8.0\AK8PO_snake.csproj.CoreCompileInputs.cache
+C:\Users\lsikudova\RiderProjects\AK8PO_snake\AK8PO_snake\obj\Debug\net8.0\AK8PO_snake.dll
+C:\Users\lsikudova\RiderProjects\AK8PO_snake\AK8PO_snake\obj\Debug\net8.0\refint\AK8PO_snake.dll
+C:\Users\lsikudova\RiderProjects\AK8PO_snake\AK8PO_snake\obj\Debug\net8.0\AK8PO_snake.pdb
+C:\Users\lsikudova\RiderProjects\AK8PO_snake\AK8PO_snake\obj\Debug\net8.0\AK8PO_snake.genruntimeconfig.cache
+C:\Users\lsikudova\RiderProjects\AK8PO_snake\AK8PO_snake\obj\Debug\net8.0\ref\AK8PO_snake.dll
